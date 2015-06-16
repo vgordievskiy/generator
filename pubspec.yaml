@@ -1,10 +1,13 @@
 name: generator
 description: A set of utilities for easily generating code from metadata
-version: 0.0.1-alpha.1
+version: 0.0.1-alpha.3
 homepage: https://github.com/matanlurey/generator
 author: Matan Lurey <matanl@google.com>
 dependencies:
   analyzer: ">=0.25.0+1 <0.26.0"
   analysis: ">=0.0.1-alpha.3+hotfix <0.1.0"
+  dart_style: ">=0.1.8 <0.2.0"
+  mustache: ">=0.2.3 <0.3.0"
+  quiver: ">=0.21.4 <0.22.0"
 dev_dependencies:
   test: any
