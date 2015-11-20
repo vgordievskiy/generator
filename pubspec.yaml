@@ -7,7 +7,8 @@ dependencies:
   analyzer: any
   analysis: 
     git: https://github.com/vgordievskiy/analysis.git
-  dart_builder: any
+  dart_builder:
+    git: https://github.com/vgordievskiy/dart_builder.git
   dart_style: any
   mustache: any
   quiver: any
