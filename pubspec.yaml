@@ -5,7 +5,8 @@ homepage: https://github.com/matanlurey/generator
 author: Matan Lurey <matanl@google.com>
 dependencies:
   analyzer: any
-  analysis: any
+  analysis: 
+    git: https://github.com/vgordievskiy/analysis.git
   dart_builder: any
   dart_style: any
   mustache: any
